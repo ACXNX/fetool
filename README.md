@@ -7,10 +7,6 @@
 
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
-- 个人Blog [fefork.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
-- 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
-- QQ群 **214199415**，群名__前端Club__。PS:入群务必请提供 __有内容的git或blog地址__，否则进不去哈:)
-
 ---
 
 ## 目录
