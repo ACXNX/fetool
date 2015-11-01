@@ -1,6 +1,5 @@
 # 大前端工具集
 
-<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
 > 本篇文章记录了一枚程序猿的百宝箱。
 
